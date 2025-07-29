@@ -1,4 +1,4 @@
-# re-disenar-kit
+# kevracho-PRJCT
 Kevracho es un proyecto de diseño comunicacional open-source sobre ambiente y nuevas economías. Su nombre viene de "Kit de evocación visual, revolucionario y abierto sobre clima, humanidad y otredades", acrónimo inspirado en el Quebracho como símbolo cordobés de fuerza, ancestralidad y comunidad.
 
 Contiene piezas gráficas como pósters, stickers y flyers que comparten un dato, una referencia y un vínculo (a una sección dedicada en el sitio sobre diseño, ambiente y tecnología: "rediseñar"). 
