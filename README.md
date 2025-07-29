@@ -8,3 +8,9 @@ Contiene piezas gráficas como pósters, stickers y flyers que comparten un dato
 El objetivo es distribuirlo de manera abierta en negocios locales y eventos afines, rastreando las veces que se escanea un código QR incrustado en algunas imágenes para medir su alcance en el territorio. 
 
 Queda hecha así la invitación a sentarse a la sombra del kevracho.
+
+*** Este proyecto está bajo licencia pública Creative Commons BY-NC-SA 4.0. ***
+
+Cualquier reproducción, distribución o adaptación del contenido debe dar crédito apropiado a la fuente (rediseñ.ar + el autor de la pieza), incluir un enlace a la licencia e indicar si se han realizado cambios. No está permitido utilizar este material con fines comerciales. Si remezclas, transformas o creas a partir del material, debes distribuir tu contribución bajo la misma licencia (CC BY-NC-SA 4.0).
+
+Más información en: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es
