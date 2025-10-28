@@ -1,0 +1,48 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: EntregaFinalPINE-Kevracho-GRAFFI.ai
+Color Mode: CMYK color
+Color Profile: none
+Ruler Units: points
+Artboard Dimensions: 419,5276 pt x 595,2756 pt
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:
+Bricolage Grotesque ExtraLight (Adobe Fonts)
+Bricolage Grotesque Light (Adobe Fonts)
+Bricolage Grotesque Regular (Adobe Fonts)
+Bricolage Grotesque Medium (Adobe Fonts)
+Bricolage Grotesque SemiBold (Adobe Fonts)
+Bricolage Grotesque Bold (Adobe Fonts)
+Bricolage Grotesque ExtraBold (Adobe Fonts)
+Bricolage Grotesque 48pt SemiCondensed Bold (Adobe Fonts)
+Bricolage Grotesque 48pt SemiCondensed ExtraBold (Adobe Fonts)
+
+-----------------------------------------------------------------------------
+Fonts:
+Right Grotesk Spatial Light (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+NONE
